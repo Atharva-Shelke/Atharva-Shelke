@@ -36,8 +36,8 @@
   Full-stack group expense management system  
   *(Spring Boot + Angular + Oracle)*
 
-- 🌦️ **Weather App (JS)** *(In Development)*  
-  API integration and asynchronous data handling  
+- 🌦️ **Employee Management App (Spring Boot)** *(In Development)*  
+  CRUD based Rest API implementation in Spring Boot  
 
 - 🔗 **URL Shortener** *(Design Phase)*  
   Scalable backend design with database optimization  
