@@ -74,3 +74,7 @@
 Coding keeps my mind at peace 🧠💻 and travelling keeps my heart at ease ❤️🏍️
 
 ---
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-Shelke&layout=pie&hide=scss)
