@@ -1,6 +1,6 @@
 # 🚀 Atharva Shelke
 
-👋🏼 Hi, I’m Atharva — a Full Stack Java Developer with 2+ years of experience building scalable enterprise applications in the BFSI domain.
+👋🏼 Hi, I’m Atharva, a Full Stack Java Developer with 2+ years of experience building scalable enterprise applications in the BFSI domain.
 
 ---
 
@@ -15,7 +15,7 @@
 ## 🧠 Experience Highlights
 - 🚀 Contributed to a banking system used by **10+ BFSI clients**
 - ⚡ Improved SQL query performance by **~30%**
-- 🧩 Built **20+ reusable UI components** reducing development effort
+- 🎨 Built **20+ reusable UI components** reducing development effort
 - 🔗 Developed reliable REST APIs (~99% success rate)
 - 📈 Maintained high system uptime in production environments
 
