@@ -37,7 +37,8 @@
   *(Spring Boot + Angular + Oracle)*
 
 - 🌦️ **[Employee Management App (Spring Boot)](https://github.com/Atharva-Shelke/CRUD-REST-API-Using-SpringBoot)**  
-  CRUD based Rest API implementation in Spring Boot
+  CRUD based Rest API implementation in Spring Boot  
+  *(Spring Boot + PostgreSQL)*
 
 - 🏏 **Cricket Series Manager** *(In Development)*  
   Restful web service that will be used for scheduling cricket matches in a series
