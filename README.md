@@ -1,4 +1,4 @@
-# 🚀 Atharva Shelke
+# 👨🏻‍💻 Atharva Shelke
 
 👋🏼 Hi, I’m Atharva, a Full Stack Java Developer with 2+ years of experience building scalable enterprise applications in the BFSI domain.
 
@@ -36,7 +36,7 @@
   Full-stack group expense management system  
   *(Spring Boot + Angular + Oracle)*
 
-- 🌦️ **[Employee Management App (Spring Boot)](https://github.com/Atharva-Shelke/CRUD-REST-API-Using-SpringBoot)**  
+- 🗂️🗃️ **[Employee Management App (Spring Boot)](https://github.com/Atharva-Shelke/CRUD-REST-API-Using-SpringBoot)**  
   CRUD based Rest API implementation in Spring Boot  
   *(Spring Boot + PostgreSQL)*
 
@@ -79,6 +79,6 @@ Coding keeps my mind at peace 🧠💻 and travelling keeps my heart at ease ❤
 
 ---
 
-## 💻 Most Used Languages
+## 📊 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-Shelke&layout=pie&hide=scss)
