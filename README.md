@@ -36,7 +36,7 @@
   Full-stack group expense management system  
   *(Spring Boot + Angular + Oracle)*
 
-- 🗂️🗃️ **[Employee Management App (Spring Boot)](https://github.com/Atharva-Shelke/CRUD-REST-API-Using-SpringBoot)**  
+- 🗃️ **[Employee Management App (Spring Boot)](https://github.com/Atharva-Shelke/CRUD-REST-API-Using-SpringBoot)**  
   CRUD based Rest API implementation in Spring Boot  
   *(Spring Boot + PostgreSQL)*
 
