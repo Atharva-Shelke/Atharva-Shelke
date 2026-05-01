@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Atharva Shelke
 
-👋🏼 Hi, I’m Atharva, a Full Stack Java Developer with 2+ years of experience building scalable enterprise applications in the BFSI domain.
+👋🏼 Hi, I am a Full Stack Java Developer with 2+ years of experience building scalable enterprise applications in the BFSI domain.
 
 ---
 
