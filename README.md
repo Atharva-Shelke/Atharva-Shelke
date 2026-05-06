@@ -7,7 +7,7 @@
 ## 💼 What I Do
 - 🔧 Build scalable backend systems using **Java, Spring Boot, Spring MVC**
 - 🌐 Develop responsive UIs using **Angular & Ext JS**
-- 🗄️ Design and optimize **Oracle SQL queries & stored procedures**
+- 🗄️ Design and optimize **SQL queries & stored procedures**
 - ⚡ Improve performance, reliability, and maintainability of applications
 
 ---
@@ -23,10 +23,10 @@
 
 ## 🛠️ Tech Stack
 
-**Backend:** Java, Spring Boot, Spring MVC, JDBC  
-**Frontend:** Angular, Ext JS, HTML, CSS, JavaScript  
-**Database:** Oracle SQL, Stored Procedures  
-**Tools & Practices:** Git, Maven, REST APIs, MVC Architecture, Session Management, Performance Optimization  
+⚙️ **Backend:** Java, Spring Boot, Spring MVC, JDBC  
+🎨 **Frontend:** Angular, Ext JS, HTML, CSS, JavaScript  
+🛢️ **Database:** Oracle SQL, Stored Procedures, PostgreSQL  
+🔧 **Tools & Practices:** Git, Maven, REST APIs, MVC Architecture, Session Management, Performance Optimization  
 
 ---
 
