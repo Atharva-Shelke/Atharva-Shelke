@@ -36,14 +36,15 @@
   Full-stack group expense management system  
   *(Spring Boot + Angular + Oracle)*
 
-- 🗃️ **[Employee Management App (Spring Boot)](https://github.com/Atharva-Shelke/CRUD-REST-API-Using-SpringBoot)**  
+- 🏏 **[Cricket Series Manager](https://github.com/Atharva-Shelke/CricketSeriesManagement)**  
+  Restful web service that will be used for scheduling cricket matches in a series  
+  *(Spring Boot + PostgreSQL)*
+
+- 🗃️ **[Employee Management App](https://github.com/Atharva-Shelke/CRUD-REST-API-Using-SpringBoot)**  
   CRUD based Rest API implementation in Spring Boot  
   *(Spring Boot + PostgreSQL)*
 
-- 🏏 **Cricket Series Manager** *(In Development)*  
-  Restful web service that will be used for scheduling cricket matches in a series
-
-- 🔗 **URL Shortener** *(Design Phase)*  
+- 🔗 **URL Shortener** *(In Development)*  
   Scalable backend design with database optimization  
 
 ---
