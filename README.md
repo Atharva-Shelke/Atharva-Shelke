@@ -40,9 +40,9 @@
   Restful web service that will be used for scheduling cricket matches in a series  
   *(Spring Boot + PostgreSQL)*
 
-- 🗃️ **[Employee Management App](https://github.com/Atharva-Shelke/CRUD-REST-API-Using-SpringBoot)**  
-  CRUD based Rest API implementation in Spring Boot  
-  *(Spring Boot + PostgreSQL)*
+- ❌⭕ **[Tic Tac Toe](https://github.com/Atharva-Shelke/Tic-Tac-Toe)**  
+  A desktop-based Tic Tac Toe game with PvP and PvC support   
+  *(Java 8 + JavaFX)*
 
 - 🔗 **URL Shortener** *(In Development)*  
   Scalable backend design with database optimization  
