@@ -44,11 +44,11 @@
   A desktop-based Tic Tac Toe game with PvP and PvC support   
   *(Java 8 + JavaFX)*
 
-- 🚀🌑 **Asteroid Destroyer** *(In Development)*  
+- 🚀🌑 **Asteroid Destroyer** *(In Development Phase)*  
   A desktop-based classic Asteroids game with manual controls   
   *(Java 8 + JavaFX)*
   
-- 🔗 **URL Shortener** *(In Development)*  
+- 🔗 **URL Shortener** *(In Design Phase)*  
   Scalable backend design with database optimization  
 
 ---
