@@ -13,7 +13,7 @@
 ---
 
 ## 🧠 Experience Highlights
-- 🚀 Contributed to a banking system used by **10+ BFSI clients**
+- 🚀 Contributed to a banking system used by **15+ BFSI clients**
 - ⚡ Improved SQL query performance by **~30%**
 - 🎨 Built **20+ reusable UI components** reducing development effort
 - 🔗 Developed reliable REST APIs (~99% success rate)
@@ -23,33 +23,35 @@
 
 ## 🛠️ Tech Stack
 
-⚙️ **Backend:** Java, Spring Boot, Spring MVC, JDBC  
-🎨 **Frontend:** Angular, Ext JS, HTML, CSS, JavaScript  
-🛢️ **Database:** Oracle SQL, Stored Procedures, PostgreSQL  
-🔧 **Tools & Practices:** Git, Maven, REST APIs, MVC Architecture, Session Management, Performance Optimization  
+💻 **Core CS:** Data Structures and Algorithms (DSA), Object-Oriented Programming (OOP)  
+⚙️ **Backend:** Java, Spring Boot, Spring Framework, Spring MVC, REST APIs, JPA, Hibernate, JDBC, JSP, Servlets, JUnit  
+🎨 **Frontend:** Angular, AngularJS, ExtJS, TypeScript, JavaScript, HTML, CSS  
+🛢️ **Database:** SQL, Oracle, PL/SQL, MySQL, PostgreSQL, RDBMS  
+🔧 **Tools:** Git, GitHub, Maven, SVN, Jenkins, Postman, JIRA, Mantis, Review Board, Artifactory, OpenProject  
+☁️ **Cloud:** AWS Cloud Foundations, Google Cloud Fundamentals  
 
 ---
 
 ## 📌 Featured Projects
 
-- 💰 **[SplitExpenses](https://github.com/Atharva-Shelke/Split-Expenses)**  
-  Full-stack group expense management system  
+- 💰 **[Split Expenses](https://github.com/Atharva-Shelke/Split-Expenses)**  
+  Full-stack group expense management system.  
   *(Spring Boot + Angular + Oracle)*
 
 - 🏏 **[Cricket Series Manager](https://github.com/Atharva-Shelke/CricketSeriesManagement)**  
-  Restful web service that will be used for scheduling cricket matches in a series  
+  Restful web service that will be used for scheduling cricket matches in a series.  
   *(Spring Boot + PostgreSQL)*
 
-- ❌⭕ **[Tic Tac Toe](https://github.com/Atharva-Shelke/Tic-Tac-Toe)**  
-  A desktop-based Tic Tac Toe game with PvP and PvC support   
-  *(Java 8 + JavaFX)*
+- 🔐 **[User Authentication Demo](https://github.com/Atharva-Shelke/Angular-Auth-Dashboard)**  
+  A frontend application built using Angular 17 that demonstrates routing, route guards, reactive forms, and localStorage.   
+  *(Angular 17 + TypeScript 5.x)*
 
-- 🚀🌑 **Asteroid Destroyer** *(In Development Phase)*  
-  A desktop-based classic Asteroids game with manual controls   
-  *(Java 8 + JavaFX)*
+- 🚀🌑 **[Asteroid Destroyer](https://github.com/Atharva-Shelke/Asteroid-Destroyer)**  
+  A desktop-based classic Asteroids game with manual controls, dynamic scoring and increasing difficulty.   
+  *(Java 17 + JavaFX)*
   
 - 🔗 **URL Shortener** *(In Design Phase)*  
-  Scalable backend design with database optimization  
+  Scalable backend design with database optimization.  
 
 ---
 
@@ -86,4 +88,4 @@ Coding keeps my mind at peace 🧠💻 and travelling keeps my heart at ease ❤
 
 ## 📊 Most Used Languages
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Atharva-Shelke&hide=scss&hide_title=true&hide_border=true&card_width=888&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-Shelke&hide=scss&hide_title=true&hide_border=true&card_width=888&langs_count=7)
