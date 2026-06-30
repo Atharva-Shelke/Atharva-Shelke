@@ -88,4 +88,4 @@ Coding keeps my mind at peace 🧠💻 and travelling keeps my heart at ease ❤
 
 ## 📊 Most Used Languages
 
-![Top Languages](https://github-readme-stats-beryl-six-59.vercel.app/api/top-langs/?username=Atharva-Shelke&hide=scss,php,dockerfile,batchfile&hide_title=true&hide_border=true&card_width=888&langs_count=10)
+![Top Languages](https://github-readme-stats-beryl-six-59.vercel.app/api/top-langs/?username=Atharva-Shelke&hide=scss,php,dockerfile,batchfile&hide_title=true&hide_border=true&card_width=888&langs_count=10&v=2)
