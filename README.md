@@ -7,7 +7,7 @@
 ## 💼 What I Do
 - 🔧 Build scalable backend systems using **Java, Spring Boot, Spring MVC**
 - 🌐 Develop responsive UIs using **Angular & Ext JS**
-- 🗄️ Design and optimize **SQL queries & stored procedures**
+- 🗄️ Design and optimize **PLSQL/SQL queries & stored procedures**
 - ⚡ Improve performance, reliability, and maintainability of applications
 
 ---
@@ -15,9 +15,9 @@
 ## 🧠 Experience Highlights
 - 🚀 Contributed to a banking system used by **15+ BFSI clients**
 - ⚡ Improved SQL query performance by **~30%**
-- 🎨 Built **20+ reusable UI components** reducing development effort
-- 🔗 Developed reliable REST APIs (~99% success rate)
-- 📈 Maintained high system uptime in production environments
+- 🎨 Built **20+ reusable UI components** reducing development effort by **25%**
+- 🔗 Developed reliable Spring REST APIs and delivered **9 major change requests** independently across the full SDLC
+- 📈 Maintained **~99% system uptime** through proactive log analysis and debugging in production environments
 
 ---
 
@@ -88,4 +88,4 @@ Coding keeps my mind at peace 🧠💻 and travelling keeps my heart at ease ❤
 
 ## 📊 Most Used Languages
 
-![Top Languages](https://github-readme-stats-beryl-six-59.vercel.app/api/top-langs/?username=Atharva-Shelke&hide=scss,php,dockerfile,batchfile&hide_title=true&hide_border=true&card_width=888&langs_count=10)
+![Top Languages](https://github-readme-stats-beryl-six-59.vercel.app/api/top-langs/?username=Atharva-Shelke&hide=scss,php,dockerfile,batchfile&hide_title=true&hide_border=true&card_width=888&langs_count=10&v=1)
